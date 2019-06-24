@@ -5,15 +5,16 @@
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     KT 5G용 360도 화상통화 및 실시간 스트리밍 앱
-  description: > # this will include new lines to allow paragraphs
-    GVR을 이용해 메인화면 개발  
+  description: | # this will include new lines to allow paragraphs
+    GVR을 이용해 메인화면 개발, Zoom IN & Zoom OUT  
     360 View 레이더 개발  
     360 View 가로세로 모드 개발  
     360 카메라 연동 (WiFi Direct, Bluetooth, Bitrate, Resolution)  
     설정화면  
     MVVM 패턴 적용  
-    Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth, WebRTC  
+    Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth, WebRTC, VP8, H.264, MediaCodec    
 
+<hr>  
 - layout: top-middle
   name: 리콘
   #link: https://play.google.com/store/apps/details?id=com.kt.real360
