@@ -13,7 +13,7 @@
     설정화면  
     MVVM 패턴 적용  
     Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth  
-    WebRTC, VP8, H.264, MediaCodec, SVN, Git  
+    WebRTC, VP8, MediaCodec, SVN, Git  
 
 - layout: top-middle
   name: 리콘
