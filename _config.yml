@@ -43,8 +43,8 @@ about_content: |
   현재 제가 사용해본 경험은 다음과 같습니다  
 
   <mark> Android </mark> &nbsp;<mark> Java </mark> &nbsp;<mark> Kotlin </mark> &nbsp;<mark> MVVM </mark>  
-  <mark> Realm </mark> <mark> Room </mark> <mark> Git </mark> <mark> SVN </mark>  
-  <mark> PHP </mark> <mark> Javascript </mark> <mark> MySQL </mark> 
+  <mark> Realm </mark> &nbsp;<mark> Room </mark> &nbsp;<mark> Git </mark> &nbsp;<mark> SVN </mark>  
+  <mark> PHP </mark> &nbsp;<mark> Javascript </mark> &nbsp;<mark> MySQL </mark> 
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
