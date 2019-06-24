@@ -1,5 +1,5 @@
 # Project template
-- layout: top-middle
+- layout: top-left
   name: 리얼 360
   link: https://play.google.com/store/apps/details?id=com.kt.real360
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
