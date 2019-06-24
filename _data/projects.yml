@@ -1,5 +1,5 @@
 # Project template
-- layout: top-left
+- layout: top-middle
   name: 리얼 360
   link: https://play.google.com/store/apps/details?id=com.kt.real360
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -14,6 +14,7 @@
     MVVM 패턴 적용  
     Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth, WebRTC  
 
+---
 - layout: top-middle
   name: 리콘
   #link: https://play.google.com/store/apps/details?id=com.kt.real360
@@ -26,6 +27,7 @@
     Kotlin, Room, Retrofit, Glide, Socket  
     MVVM 패턴 적용  
 
+---
 - layout: top-middle
   name: 익스피킹
   link: https://play.google.com/store/apps/details?id=com.expeaking
@@ -38,6 +40,7 @@
     Restful  
     Java, Kotlin  
 
+---
 - layout: top-middle
   name: Bold
   #link: https://play.google.com/store/apps/details?id=com.expeaking
@@ -49,6 +52,7 @@
     Restful  
     Kotlin, Socket, Retrofit, Glide, WebRTC
 
+---
 - layout: top-middle
   name: AJ파크
   link: https://play.google.com/store/apps/details?id=kr.co.ajpark.partner
