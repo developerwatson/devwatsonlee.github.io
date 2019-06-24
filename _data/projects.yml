@@ -5,7 +5,7 @@
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     KT 5G용 360도 화상통화 및 실시간 스트리밍 앱
-  description: | # this will include new lines to allow paragraphs
+  description: > # this will include new lines to allow paragraphs
     GVR을 이용해 메인화면 개발  
     360 View 레이더 개발  
     360 View 가로세로 모드 개발  
@@ -13,8 +13,6 @@
     설정화면  
     MVVM 패턴 적용  
     Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth, WebRTC  
-
-* * *  
 
 - layout: top-middle
   name: 리콘
@@ -28,8 +26,6 @@
     Kotlin, Room, Retrofit, Glide, Socket  
     MVVM 패턴 적용  
 
-* * *  
-
 - layout: top-middle
   name: 익스피킹
   link: https://play.google.com/store/apps/details?id=com.expeaking
@@ -42,8 +38,6 @@
     Restful  
     Java, Kotlin  
 
-* * *  
-
 - layout: top-middle
   name: Bold
   #link: https://play.google.com/store/apps/details?id=com.expeaking
@@ -54,8 +48,6 @@
     이미지 다중 업로드 및 채팅  
     Restful  
     Kotlin, Socket, Retrofit, Glide, WebRTC
-
-* * *  
 
 - layout: top-middle
   name: AJ파크
