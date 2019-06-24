@@ -12,8 +12,9 @@
     360 카메라 연동 (WiFi Direct, Bluetooth, Bitrate, Resolution)  
     설정화면  
     MVVM 패턴 적용  
-    Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth, WebRTC, VP8, H.264, MediaCodec    
-
+    Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth, WebRTC, VP8, H.264, MediaCodec
+#
+#
 - layout: top-middle
   name: 리콘
   #link: https://play.google.com/store/apps/details?id=com.kt.real360
