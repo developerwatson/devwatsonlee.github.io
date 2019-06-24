@@ -23,10 +23,29 @@ instagram_username: gyunizero
 #googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: INTRODUCE
 about_profile_image: images/leeyeonggyun.jpg
 about_content: | # this will include new lines to allow paragraphs
-  What are you doing now?
+안드로이드 개발과 스타트업 개발자로서의 경험이 있습니다.
+Java와 Kotlin을 사용하여 프로덕션 서비스를 개발하였습니다. 확장성과 유지보수성 좋은
+설계 및 패턴에 관심이 있습니다.
+이외에도 개인프로젝트나 커뮤니티 및 세미나 스터디를 통해 다양한 경험을 즐기고 새로운 기술이나 좋은 기술에 호기심이 많은편이라 공유하고 배우는걸 좋아합니다.
+서비스 개발이란 결국 개발과 비즈니스와의 커뮤니케이션이 가장 중요하다고 생각하고 있습니다
+능동적이고 적극적인 커뮤니케이션으로 문제 해결과 비즈니스 발전을 위해 뛰어듭니다
+이러한 점을 바탕으로 더 좋은 개발자로서 성장하기 위해 더 치열하게 학습하고 경험하고 노력하고 있습니다.
+현재 제가 사용해본 경험은 다음과 같습니다.
+<mark> Android </mark>
+<mark> Java </mark>
+<mark> Kotlin </mark>
+<mark> MVVM </mark>
+<mark> Realm </mark>
+<mark> Room </mark>
+<mark> Git </mark>
+<mark> SVN </mark>
+<mark> PHP </mark>
+<mark> Javascript </mark>
+<mark> MySQL </mark>
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -40,7 +59,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Hey you
+  개발을 하지 않을 때 저는 활동적입니다. 사진 및 영상 촬영,편집이 취미여서 고양 스타필드 나이키 홍보영상도 제작했었고
+  회사 워크샵에서도 지인들 결혼식에서도 촬영을 해주며 시간을 보냅니다.
+  또 여러 컨퍼런스를 다니는걸 좋아해서 GDG나 DroidKnight등 기회가되면 거의 참석하고 있고 
+  여러 개발자들과 커뮤니케이션 하는걸 좋아해서 커뮤니티활동도 하고있습니다. 
 
 # Footer
 footer_show_references: true

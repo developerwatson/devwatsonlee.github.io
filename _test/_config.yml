@@ -11,7 +11,7 @@ website: sproogen.github.io/modern-resume-theme
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username: jekyll
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
@@ -23,7 +23,7 @@ youtube_username: jekyll
 googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: INTRODUCE
 about_profile_image: _test/images/travis.png
 about_content: > # this means to ignore newlines until the next config item.
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -55,7 +55,7 @@ footer_show_references: true
 data_dir: _test/_data
 
 include:
- - _test
+  - _test
 
 exclude:
   - vendor
@@ -65,4 +65,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
