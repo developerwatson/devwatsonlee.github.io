@@ -25,9 +25,8 @@ instagram_username: gyunizero
 # About Section
 #about_title: INTRODUCE
 about_profile_image: images/leeyeonggyun.jpg
-about_content: 
-what
-
+about_content: | 
+what are you doing now?
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -41,7 +40,7 @@ what
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  
+
 
 # Footer
 footer_show_references: true
