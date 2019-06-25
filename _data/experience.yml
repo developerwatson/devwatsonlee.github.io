@@ -7,18 +7,10 @@
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-  GVR에 MediaPlayer를 올려서 내장된 360 비디오를 재생시켰을때는 문제없이 재생이 되었습니다  
-  그래서 카메라 URL을 받아와서 그대로 넘겨 MediaPlayer에 재생시키니 성능 이슈가 생겼습니다  
-  해당 문제를 해결하기위해 Capturer를 만들어 해결을 하였습니다.  
+    GVR에 MediaPlayer를 올려서 내장된 360 비디오를 재생시켰을때는 문제없이 재생이 되었습니다  
+    그래서 카메라 URL을 받아와서 그대로 넘겨 MediaPlayer에 재생시키니 성능 이슈가 생겼습니다  
+    해당 문제를 해결하기위해 Capturer를 만들어 해결을 하였습니다.  
 
-  360도 영상으로 화상통화 할 때에도 1초에 1프레임만 받아오는 성능 이슈가 생겨 카메라업체에 부탁해 최적화와  
-  WebRTC 버전을 업그레이드 함으로써 해결하였습니다.  
-  ( 성능 이슈때문에 WebRTC 이전버전에서 사용하던 VideoRenderer가 VideoSink로 바뀌면서 성능 개선 됨 )  
-
-
-
-
-
-  
-
-    
+    360도 영상으로 화상통화 할 때에도 1초에 1프레임만 받아오는 성능 이슈가 생겨 카메라업체에 부탁해 최적화와  
+    WebRTC 버전을 업그레이드 함으로써 해결하였습니다.  
+    ( 성능 이슈때문에 WebRTC 이전버전에서 사용하던 VideoRenderer가 VideoSink로 바뀌면서 성능 개선 됨 )
