@@ -59,8 +59,7 @@
   description: | # this will include new lines to allow paragraphs
     자동차 입출기록 관리 개발  
     매출조회 기능 개발  
-    제휴상점 등록 기능 개발  
-    매출조회 기능 개발  
+    제휴상점 등록 기능 개발   
     결제연동(이니시스, 카카오페이) 개발  
     Restful  
     Java, Retrofit, Glide, SVN
