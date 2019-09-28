@@ -1,5 +1,32 @@
 # Project template
 - layout: top-middle
+  name: 2DPAY 가맹점
+  link: https://play.google.com/store/apps/details?id=twodpay.mobile.merchantorder.isapp
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    가맹점에서 사용하는 포스앱
+  description: | # this will include new lines to allow paragraphs
+    VAN 단말기 및 프린터 연동
+    FCM, GA 연동
+    통합화면, 할인, 할부 기능 개발
+    메뉴별 프린트 기능 개발
+    MVVM 패턴 적용
+    Kotlin, Java, Rx, Room, Retrofit, Serial, LAN, Glide, Git
+    Trello
+
+- layout: top-middle
+  name: 2DPAY 키오스크
+  link: https://play.google.com/store/apps/details?id=twodpay.kiosk
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    가맹점에서 사용하는 키오스크 전용 앱
+  description: | # this will include new lines to allow paragraphs
+    리팩토링 작업
+    MVVM 패턴 적용
+    Kotlin, Java, Rx, Retrofit, Glide, Git
+    Trello
+
+- layout: top-middle
   name: 리얼 360
   link: https://play.google.com/store/apps/details?id=com.kt.real360
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -11,8 +38,9 @@
     360 View 가로세로 모드 개발  
     360 카메라 연동 (WiFi Direct, Bluetooth, Bitrate, Resolution)  
     설정화면  
+    JIRA
     MVVM 패턴 적용  
-    Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth  
+    Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth
     WebRTC, VP8, MediaCodec, SVN, Git  
 
 - layout: top-middle
@@ -24,6 +52,7 @@
   description: | # this will include new lines to allow paragraphs
     친구리스트, 일대일채팅, 그룹채팅, 읽음표시, 채팅방나가기, 친구초대, 설정화면, 이모티콘샵  
     Restful  
+    JIRA
     Kotlin, Room, Retrofit, Glide, Socket, Git    
     MVVM 패턴 적용  
 
@@ -37,6 +66,7 @@
     기존 Java 프로젝트 Kotlin으로 변경  
     게시판기능 추가  
     Restful  
+    JIRA
     Java, Kotlin, Retrofit, Glide, Git    
 
 - layout: top-middle
@@ -48,6 +78,7 @@
   description: | # this will include new lines to allow paragraphs
     이미지 다중 업로드 및 채팅  
     Restful  
+    JIRA
     Kotlin, Socket, Retrofit, Glide, WebRTC, Git  
 
 - layout: top-middle
