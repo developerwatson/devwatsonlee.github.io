@@ -46,7 +46,7 @@ about_content: |
   <mark> Realm </mark> &nbsp;<mark> Room </mark> &nbsp;<mark> Git </mark> &nbsp;<mark> SVN </mark>  
   <mark> WebRTC </mark> &nbsp;<mark> OpenGL </mark> &nbsp;
   <mark> PHP </mark> &nbsp;<mark> Javascript </mark> &nbsp;<mark> MySQL </mark> &nbsp;<mark> Go </mark>  
-  <mark> Flutter </mark> &nbsp; <mark> LiveData </mark>
+  <mark> Flutter </mark> &nbsp; <mark> LiveData </mark> &nbsp; <mark> Koin </mark> &nbsp; <mark> Kodein </mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

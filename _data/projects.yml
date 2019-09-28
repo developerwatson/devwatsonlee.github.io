@@ -13,7 +13,7 @@
     MVVM 패턴 적용  
     Databinding  
     Kotlin, Java, Rx, Room, Retrofit, Serial, LAN, Glide, Git  
-    ConstraintLayout  
+    Koin, ConstraintLayout  
     LiveData  
     Trello  
 
@@ -29,7 +29,7 @@
     Databinding  
     LiveData  
     Kotlin, Java, Rx, Retrofit, Glide, Git  
-    ConstraintLayout  
+    Koin, ConstraintLayout  
     Trello  
 
 - layout: top-middle
@@ -47,7 +47,7 @@
     JIRA  
     MVVM 패턴 적용  
     Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth  
-    ConstraintLayout  
+    Kodein, ConstraintLayout  
     LiveData  
     WebRTC, VP8, MediaCodec, SVN, Git  
 
