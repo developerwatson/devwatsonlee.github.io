@@ -13,6 +13,7 @@
     MVVM 패턴 적용  
     Databinding  
     Kotlin, Java, Rx, Room, Retrofit, Serial, LAN, Glide, Git  
+    LiveData  
     Trello  
 
 - layout: top-middle
@@ -25,6 +26,7 @@
     리팩토링 작업  
     MVVM 패턴 적용  
     Databinding  
+    LiveData  
     Kotlin, Java, Rx, Retrofit, Glide, Git  
     Trello  
 
@@ -42,7 +44,8 @@
     설정화면  
     JIRA  
     MVVM 패턴 적용  
-    Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth
+    Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth  
+    LiveData  
     WebRTC, VP8, MediaCodec, SVN, Git  
 
 - layout: top-middle
