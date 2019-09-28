@@ -6,13 +6,14 @@
   quote: >
     가맹점에서 사용하는 포스앱
   description: | # this will include new lines to allow paragraphs
-    VAN 단말기 및 프린터 연동
-    FCM, GA 연동
-    통합화면, 할인, 할부 기능 개발
-    메뉴별 프린트 기능 개발
-    MVVM 패턴 적용
-    Kotlin, Java, Rx, Room, Retrofit, Serial, LAN, Glide, Git
-    Trello
+    VAN 단말기 및 프린터 연동  
+    FCM, GA 연동  
+    통합화면, 할인, 할부 기능 개발  
+    메뉴별 프린트 기능 개발  
+    MVVM 패턴 적용  
+    Databinding  
+    Kotlin, Java, Rx, Room, Retrofit, Serial, LAN, Glide, Git  
+    Trello  
 
 - layout: top-middle
   name: 2DPAY 키오스크
@@ -21,10 +22,11 @@
   quote: >
     가맹점에서 사용하는 키오스크 전용 앱
   description: | # this will include new lines to allow paragraphs
-    리팩토링 작업
-    MVVM 패턴 적용
-    Kotlin, Java, Rx, Retrofit, Glide, Git
-    Trello
+    리팩토링 작업  
+    MVVM 패턴 적용  
+    Databinding  
+    Kotlin, Java, Rx, Retrofit, Glide, Git  
+    Trello  
 
 - layout: top-middle
   name: 리얼 360
