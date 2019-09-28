@@ -13,6 +13,7 @@
     MVVM 패턴 적용  
     Databinding  
     Kotlin, Java, Rx, Room, Retrofit, Serial, LAN, Glide, Git  
+    ConstraintLayout  
     LiveData  
     Trello  
 
@@ -28,6 +29,7 @@
     Databinding  
     LiveData  
     Kotlin, Java, Rx, Retrofit, Glide, Git  
+    ConstraintLayout  
     Trello  
 
 - layout: top-middle
@@ -45,6 +47,7 @@
     JIRA  
     MVVM 패턴 적용  
     Kotlin, Kodein, Rx, Realm, Retrofit, WiFiDirect, Bluetooth  
+    ConstraintLayout  
     LiveData  
     WebRTC, VP8, MediaCodec, SVN, Git  
 
@@ -59,6 +62,7 @@
     Restful  
     JIRA
     Kotlin, Room, Retrofit, Glide, Socket, Git    
+    ConstraintLayout  
     MVVM 패턴 적용  
 
 - layout: top-middle
@@ -85,6 +89,7 @@
     Restful  
     JIRA
     Kotlin, Socket, Retrofit, Glide, WebRTC, Git  
+    ConstraintLayout  
 
 - layout: top-middle
   name: AJ파크
