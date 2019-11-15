@@ -2,7 +2,7 @@
 layout: post
 title: '최악의 CTO를 만났던 썰'
 subtitle: '나의 가치관을 흔들었던 그사람'
-date: 2019-11-13 10:46:13 -0400
+date: 2019-11-14 10:46:13 -0400
 background: '/img/posts/06.jpg'
 ---
 
