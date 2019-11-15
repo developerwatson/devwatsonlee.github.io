@@ -1,38 +1,22 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-{%- include head.html -%}
+<html>
+
+{% include head.html %}
 
 <body>
 
-  {%- include header.html -%}
+  {% include navbar.html %}
 
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
+  {{ content }}
 
-      {%- include about.html -%}
+  {% include footer.html %}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}
+  {% include scripts.html %}
 
-      {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
-      {%- endif -%}
-
-      {%- if site.data.education.size > 0 -%}
-        {%- include education.html -%}
-      {%- endif -%}
-
-      {%- if site.more_content -%}
-        {%- include more.html -%}
-      {%- endif -%}
-
-    </div>
-  </main>
-
-  {%- include footer.html -%}
+  {% include google-analytics.html %}
 
 </body>
+<link rel="stylesheet" href="/assets/main.scss">
 
 </html>
