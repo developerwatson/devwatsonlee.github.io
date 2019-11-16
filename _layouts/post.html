@@ -40,7 +40,9 @@ comments: true
         {{ content }}
 
         <hr />
-
+        <div id="post-disqus" class="container">
+          {% include disqus.html %}
+        </div>
         <div class="clearfix">
           {% if page.previous.url %}
           <a
@@ -61,10 +63,6 @@ comments: true
             >Next<span class="d-none d-md-inline"> Post</span> &rarr;</a
           >
           {% endif %}
-        </div>
-
-        <div id="post-disqus" class="container">
-          {% include disqus.html %}
         </div>
       </div>
     </div>
