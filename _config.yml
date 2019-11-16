@@ -5,8 +5,7 @@ author: YEONG GYUN
 baseurl: ''
 url: 'https://blackrockdigital.github.io'
 
-comments:
-  disqus_shortname: 'devwatsonlee'
+disqus_shortname: 'devwatsonlee'
 # Social Profiles
 github_username: devwatsonlee
 instagram_username: gyunizero
