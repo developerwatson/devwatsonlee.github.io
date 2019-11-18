@@ -50,6 +50,7 @@ background: '/img/lee_heaven.jpeg'
                             MVVM  <br>
                             DataBinding <br>
                             Kodein  <br>
+                            FCM <br>
                             Room, Realm <br>
                             REST API, Socket, WifiDirect, Bluetooth<br>  
                             Coroutine, Rx <br>
