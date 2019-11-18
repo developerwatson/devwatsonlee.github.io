@@ -19,7 +19,7 @@ background: '/img/lee_heaven.jpeg'
                     <div class="block-exp">
                         <div class="hgroup">
                             <h4>
-                                <span>Android Developer</span> @2DM
+                                <span>Android Developer</span>
                             </h4>
                             <h5>
                                 2019.07 - 2019.10
@@ -39,7 +39,7 @@ background: '/img/lee_heaven.jpeg'
                     <div class="block-exp">
                         <div class="hgroup">
                             <h4>
-                                <span>Android Developer</span> @LinkDotz
+                                <span>Android Developer</span>
                             </h4>
                             <h5>
                                 2017.12 - 2019.03
@@ -60,7 +60,7 @@ background: '/img/lee_heaven.jpeg'
                     <div class="block-exp">
                         <div class="hgroup">
                             <h4>
-                                <span>Android Developer</span> @Zlab
+                                <span>Android Developer</span>
                             </h4>
                             <h5>
                                 2016.11 - 2017.05
